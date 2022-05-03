@@ -1,0 +1,6 @@
+{
+    "name": "node-app",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
